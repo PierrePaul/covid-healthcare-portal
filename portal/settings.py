@@ -168,4 +168,4 @@ AUTH_USER_MODEL = 'profiles.HealthcareUser'
 LOGIN_REDIRECT_URL = 'start'
 LOGOUT_REDIRECT_URL = 'start'
 
-EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
+
